@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/instagram_clone/static/css/main.f296f410.chunk.css",
+    "main.js": "/instagram_clone/static/js/main.2223fb85.chunk.js",
+    "main.js.map": "/instagram_clone/static/js/main.2223fb85.chunk.js.map",
+    "runtime-main.js": "/instagram_clone/static/js/runtime-main.1e57afa6.js",
+    "runtime-main.js.map": "/instagram_clone/static/js/runtime-main.1e57afa6.js.map",
+    "static/js/2.06883254.chunk.js": "/instagram_clone/static/js/2.06883254.chunk.js",
+    "static/js/2.06883254.chunk.js.map": "/instagram_clone/static/js/2.06883254.chunk.js.map",
+    "index.html": "/instagram_clone/index.html",
+    "static/css/main.f296f410.chunk.css.map": "/instagram_clone/static/css/main.f296f410.chunk.css.map",
+    "static/js/2.06883254.chunk.js.LICENSE.txt": "/instagram_clone/static/js/2.06883254.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/instagram_clone/static/media/alienPlanet.ad5585c8.jpg",
+    "static/media/sexyAlien.29a91517.png": "/instagram_clone/static/media/sexyAlien.29a91517.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e57afa6.js",
+    "static/js/2.06883254.chunk.js",
+    "static/css/main.f296f410.chunk.css",
+    "static/js/main.2223fb85.chunk.js"
+  ]
+}
