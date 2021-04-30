@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/instagram_clone/static/css/main.f296f410.chunk.css",
-    "main.js": "/instagram_clone/static/js/main.875236d3.chunk.js",
-    "main.js.map": "/instagram_clone/static/js/main.875236d3.chunk.js.map",
-    "runtime-main.js": "/instagram_clone/static/js/runtime-main.1e57afa6.js",
-    "runtime-main.js.map": "/instagram_clone/static/js/runtime-main.1e57afa6.js.map",
-    "static/js/2.06883254.chunk.js": "/instagram_clone/static/js/2.06883254.chunk.js",
-    "static/js/2.06883254.chunk.js.map": "/instagram_clone/static/js/2.06883254.chunk.js.map",
-    "index.html": "/instagram_clone/index.html",
-    "static/css/main.f296f410.chunk.css.map": "/instagram_clone/static/css/main.f296f410.chunk.css.map",
-    "static/js/2.06883254.chunk.js.LICENSE.txt": "/instagram_clone/static/js/2.06883254.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/instagram_clone/static/media/alienPlanet.ad5585c8.jpg",
-    "static/media/sexyAlien.29a91517.png": "/instagram_clone/static/media/sexyAlien.29a91517.png"
+    "main.css": "/todo_app/static/css/main.fcd1a4aa.chunk.css",
+    "main.js": "/todo_app/static/js/main.875236d3.chunk.js",
+    "main.js.map": "/todo_app/static/js/main.875236d3.chunk.js.map",
+    "runtime-main.js": "/todo_app/static/js/runtime-main.9bdce709.js",
+    "runtime-main.js.map": "/todo_app/static/js/runtime-main.9bdce709.js.map",
+    "static/js/2.06883254.chunk.js": "/todo_app/static/js/2.06883254.chunk.js",
+    "static/js/2.06883254.chunk.js.map": "/todo_app/static/js/2.06883254.chunk.js.map",
+    "index.html": "/todo_app/index.html",
+    "static/css/main.fcd1a4aa.chunk.css.map": "/todo_app/static/css/main.fcd1a4aa.chunk.css.map",
+    "static/js/2.06883254.chunk.js.LICENSE.txt": "/todo_app/static/js/2.06883254.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/todo_app/static/media/alienPlanet.ad5585c8.jpg",
+    "static/media/sexyAlien.29a91517.png": "/todo_app/static/media/sexyAlien.29a91517.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e57afa6.js",
+    "static/js/runtime-main.9bdce709.js",
     "static/js/2.06883254.chunk.js",
-    "static/css/main.f296f410.chunk.css",
+    "static/css/main.fcd1a4aa.chunk.css",
     "static/js/main.875236d3.chunk.js"
   ]
 }
