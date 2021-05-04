@@ -1,0 +1,55 @@
+
+.nav{
+    background:black;
+    background-color:#252525;
+    margin:0;
+    padding:0;
+    height:5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navr{
+    display: flex;
+}
+
+
+.logo{
+    color:white;
+    font-size: 1.5rem;
+    margin-left:2rem;
+} 
+
+.theme_options >div{
+    display: inline-block;
+    width:20px;
+    height:20px;
+    margin:2px 8px;
+    border-radius: 4px;
+    border:1px solid #fff;
+    opacity:0.5;
+}
+
+.theme_options >div:active{
+    opacity:1;
+}
+
+.theme_green{
+    background-color:#8cbc22;
+}
+
+.theme_blue{
+    background-color: #439899;
+}
+
+.theme_purple{
+    background-color: #a480e7;
+}
+
+.theme_orange{
+    background-color:#c77d2c;
+}
+
+.theme_pink{
+    background-color:#cf72dc;
+}

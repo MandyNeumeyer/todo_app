@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    outline: none;
+    cursor: pointer;
+    font-family: 'Bungee', cursive;
+}
+
+select{
+    height:52px;
+    background-color: #121212;
+    color: #bfe533; 
+    height:2.5rem;
+    width:9rem;
+    border:5px outset #252525;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+
+.enterTodo{
+    background-color: black;
+    color:rgb(167, 165, 165);
+    margin-right: 5px;
+    width:24rem;
+    height:5rem;
+    border:5px outset grey;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.addBtn{
+    border:4px outset red;
+}
+
+.enterTodo::placeholder{
+    font-size:25px;
+    text-align: center;
+    color:#b2e133;
+    color:rgb(167, 165, 165);
+}
+
+.todo-display{
+    display:flex;
+}
+
+.completed{
+    text-decoration: line-through;
+    text-decoration-thickness: 20%;    
+}
+
+
+.form-header{
+    display: flex;
+}
+
+.alien >img{
+    width:15rem;
+}
+
+.myTodoApp{
+    background: url('./images/alienPlanet.jpg');
+    background-size: cover;
+    height:95vh;
+}
+
+ .todoDisplay{
+    display: flex;
+    width:20rem;
+    height:4rem;
+    background-color: black;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+
+.todoItem{
+
+    line-height: 4rem;
+    text-align: center;
+    flex-grow: 1;
+}
+
+.todoDisplay{
+    display: flex;
+    width:20rem;
+    height:4rem;
+    background-color: black;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+
+.todoItem{
+
+    line-height: 4rem;
+    text-align: center;
+    flex-grow: 1;
+}
+
+button{
+    background-color:black;
+    border:none;
+    padding:10px;
+}
+
+
+.theme_green{
+    color:#8cbd22;
+    border:3px outset #8cbd22;
+}
+ 
+ .theme_blue{
+    color: #439899;
+    border:3px outset #439899;
+}
+ 
+  .theme_purple{
+    color:#a480e7;
+    border:3px outset #a480e7;
+}
+
+  .theme_orange{
+    color:#c77d2c;
+    border:3px outset #c77d2c;
+}
+ 
+  .theme_pink{
+    color:#cf72dc;
+    border:3px outset #cf72dc;
+}
+ 
