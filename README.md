@@ -18,7 +18,9 @@ ToDo App with React Hooks.
 
 ## Setup
 
-1. Clone repository
+1. ```
+   clone repository
+   ```
 2. ```
    cd <your-repository-name>
    npm install
@@ -26,7 +28,10 @@ ToDo App with React Hooks.
 3. ```
    npm start
    ```
-4. Enjoy
+4. ```
+   Enjoy
+
+    ```
 
 ## Structure
 
