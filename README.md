@@ -18,17 +18,17 @@ ToDo App with React Hooks.
 
 ## Setup
 
-- ```
+ ```
    clone repository
    ```
-- ```
+ ```
    cd <your-repository-name>
    npm install
    ```
-- ```
+ ```
    npm start
    ```
-- ```
+ ```
    Enjoy
 
     ```
