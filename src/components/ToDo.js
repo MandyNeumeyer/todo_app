@@ -1,5 +1,4 @@
 import React from 'react'
-// import styles from './ToDo.module.css'
 import { FaCheck,FaRegTrashAlt} from "react-icons/fa";
 import '../App.css';
 import { IconContext } from "react-icons";

@@ -82,6 +82,7 @@ select{
     line-height: 4rem;
     text-align: center;
     flex-grow: 1;
+    list-style: none;
 }
 
 .todoDisplay{
