@@ -11,6 +11,7 @@ ToDo App with React Hooks.
 <h1>
 <img src="https://imgur.com/fZuu2v0.png" alt="React" width="10%">
 </h1>
+
 [Live Demo](https://mandyneumeyer.github.io/todo_app/)
 
 ![todo](https://user-images.githubusercontent.com/64845397/115973079-c5d67680-a552-11eb-8e18-2c961743ab96.gif)
