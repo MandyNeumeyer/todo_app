@@ -32,7 +32,7 @@ ToDo App with React Hooks.
    Enjoy
    ```
 
-## Structure :cactus:
+## :cactus: Structure 
 
 ```
 Project
