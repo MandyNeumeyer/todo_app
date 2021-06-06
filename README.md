@@ -18,14 +18,14 @@ ToDo App with React Hooks.
 
 ## :closed_lock_with_key: Setup
 
- ``` 
+ ```javascript
    clone repository
    ```
- ``` sh 
+ ```javascript 
    cd <your-repository-name>
    npm install
    ```
- ``` 
+ ```javascript
    npm start
    ```
  ``` 
