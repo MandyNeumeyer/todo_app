@@ -18,14 +18,18 @@ ToDo App with React Hooks.
 
 ## :closed_lock_with_key: Setup
 
- ```clone repository
+ ``` 
+   clone repository
    ```
- ```cd <your-repository-name>
+ ``` sh 
+   cd <your-repository-name>
    npm install
    ```
- ```npm start
+ ``` 
+   npm start
    ```
- ```Enjoy
+ ``` 
+   Enjoy
    ```
 
 ## :cactus: Structure 
