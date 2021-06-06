@@ -16,7 +16,7 @@ ToDo App with React Hooks.
 
 ![todo](https://user-images.githubusercontent.com/64845397/115973079-c5d67680-a552-11eb-8e18-2c961743ab96.gif)
 
-## :computer: Setup
+## :closed_lock_with_key: Setup
 
  ``` 
    clone repository
