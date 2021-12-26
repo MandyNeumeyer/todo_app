@@ -11,10 +11,12 @@ function Form({setInput, todos, setToDo, input, setStatus, colorTheme}) {
         setInput(e.target.value)
     }
 
-    const addToDo = (e)=>{
+    const addToDo = (e) => {
         e.preventDefault();
+        if(input !==""){ 
         setToDo([...todos, {text:input, isCompleted:false, id: uuidv4()}])
         setInput('')
+        }
     }
 
     const handleStatus = (e)=>{
