@@ -40,8 +40,7 @@ Project
 ├── package-lock.json
 ├── public
 │   ├── favicon.ico
-│   ├── index.html
-│   └── manifest.json
+│   └── index.html
 ├── README.md
 └── src
     ├── App.css
