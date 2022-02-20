@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/todo_app/static/css/main.f39ca4b7.chunk.css",
-    "main.js": "/todo_app/static/js/main.d0f5ac7e.chunk.js",
-    "main.js.map": "/todo_app/static/js/main.d0f5ac7e.chunk.js.map",
-    "runtime-main.js": "/todo_app/static/js/runtime-main.9bdce709.js",
-    "runtime-main.js.map": "/todo_app/static/js/runtime-main.9bdce709.js.map",
-    "static/js/2.06883254.chunk.js": "/todo_app/static/js/2.06883254.chunk.js",
-    "static/js/2.06883254.chunk.js.map": "/todo_app/static/js/2.06883254.chunk.js.map",
+    "main.css": "/todo_app/static/css/main.4aa63d8e.css",
+    "main.js": "/todo_app/static/js/main.173a9578.js",
+    "static/media/alienPlanet.jpg": "/todo_app/static/media/alienPlanet.ad5585c8d8827539d288.jpg",
+    "static/media/alien.png": "/todo_app/static/media/alien.29a9151764d70f981e8e.png",
     "index.html": "/todo_app/index.html",
-    "static/css/main.f39ca4b7.chunk.css.map": "/todo_app/static/css/main.f39ca4b7.chunk.css.map",
-    "static/js/2.06883254.chunk.js.LICENSE.txt": "/todo_app/static/js/2.06883254.chunk.js.LICENSE.txt",
-    "static/media/alien.29a91517.png": "/todo_app/static/media/alien.29a91517.png",
-    "static/media/App.css": "/todo_app/static/media/alienPlanet.ad5585c8.jpg"
+    "main.4aa63d8e.css.map": "/todo_app/static/css/main.4aa63d8e.css.map",
+    "main.173a9578.js.map": "/todo_app/static/js/main.173a9578.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.9bdce709.js",
-    "static/js/2.06883254.chunk.js",
-    "static/css/main.f39ca4b7.chunk.css",
-    "static/js/main.d0f5ac7e.chunk.js"
+    "static/css/main.4aa63d8e.css",
+    "static/js/main.173a9578.js"
   ]
 }
