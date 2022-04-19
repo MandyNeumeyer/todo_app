@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/todo_app/static/css/main.4aa63d8e.css",
-    "main.js": "/todo_app/static/js/main.173a9578.js",
+    "main.js": "/todo_app/static/js/main.26b0042f.js",
     "static/media/alienPlanet.jpg": "/todo_app/static/media/alienPlanet.ad5585c8d8827539d288.jpg",
     "static/media/alien.png": "/todo_app/static/media/alien.29a9151764d70f981e8e.png",
     "index.html": "/todo_app/index.html",
     "main.4aa63d8e.css.map": "/todo_app/static/css/main.4aa63d8e.css.map",
-    "main.173a9578.js.map": "/todo_app/static/js/main.173a9578.js.map"
+    "main.26b0042f.js.map": "/todo_app/static/js/main.26b0042f.js.map"
   },
   "entrypoints": [
     "static/css/main.4aa63d8e.css",
-    "static/js/main.173a9578.js"
+    "static/js/main.26b0042f.js"
   ]
 }
